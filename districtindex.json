@@ -5,7 +5,420 @@
 			"deaths": "5"
         }],
         "Panchthar": [{
+			{
+      "Kailali" : [{
+        "cases": "4",
+        "recovered": "0",
+        "deaths": "0"
+       }],
+      "Kathmandu": [{
+        "cases": "5",
+        "recovered": "1",
+        "deaths": "0"
+       }],
+
+      "Parsa" : [{
+        "cases": "3",
+        "recovered": "0",
+        "deaths": "0"
+       }],
+       "Baglung": [{
+        "cases": "2",
+        "recovered": "0",
+        "deaths": "0"
+    }],
+       "Rautahat" : [{
+        "cases": "1",
+        "recovered": "0",
+        "deaths": "0"
+       }],
+         " Kanchanpur" : [{
+        "cases": "1",
+        "recovered": "0",
+        "deaths": "0"
+       }],
+	    "Taplejung": [{
 			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Panchthar": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Ilam"  : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Jhapa" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Morang": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Sunsari": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Dhankutta": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Sankhuwasabha" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Bhojpur": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Terhathum" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Okhaldhunga": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Solukhumbu": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Udayapur"  : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Saptari": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Siraha": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Dhanusa" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Mahottari" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Sarlahi": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Sindhuli" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Ramechhap": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Dolkha": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Sindhupalchok": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Kavrepalanchok": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Lalitpur" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Bhaktapur" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+     
+        "Nuwakot" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Rasuwa": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Dhading": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Makwanpur": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+     
+        "Bara" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+      
+        "Chitwan": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Gorkha" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Lamjung" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Tanahun": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Syangja" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Kaski": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Manang": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Mustang" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Parwat" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Myagdi" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+      
+
+        "Gulmi" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Palpa": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Nawalpur" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Rupandehi" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Arghakhanchi": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Kapilvastu" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Pyuthan": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Rolpa": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+
+        "Eastern Rukum": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Salyan": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Dang": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Bardiya": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Surkhet" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Dailekh": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Banke" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Jajarkot" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        "Dolpa": [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+
+        
+        "Humla" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        " Kalikot" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Gamgadi " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        " Jumla" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Bajura " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Bajhang " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Achham " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        " Doti" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+       
+     
+        " Dadeldhura" : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Baitadi " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+       
+        "Western Rukum " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }],
+        "Darchula " : [{
+			"cases": "0",
+			"recovered": "0",
+			"deaths": "0"
+        }]
+}       "cases": "0",
 			"recovered": "5",
 			"deaths": "5"
         }],
